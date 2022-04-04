@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
@@ -45,4 +45,3 @@ while (i <= count)
 /* return a pointer to the string */
 return (pointeur);
 }
-
