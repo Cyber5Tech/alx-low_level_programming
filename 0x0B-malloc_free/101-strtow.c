@@ -8,7 +8,7 @@
  *@av: arguments
  * Return: a pointer to a new string
  */
-char **strtow(char *str)
+char **strtow(char *)
 {
 	int i, w, j, k, count, m, wordf;
 	char **p;
