@@ -1,1 +1,1 @@
-simple programs with C
+Projects with C
